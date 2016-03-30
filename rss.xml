@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WorldOfWater]]></title>
         <description><![CDATA[WorldOfWater]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/worldofwater/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:24:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 19:36:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/worldofwater/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting C-Level Buy-in for Your Content Marketing Strategy]]></title>
+            <description><![CDATA[<article><h1>Getting C-Level Buy-in for Your Content Marketing Strategy</h1><h2>Step 1. The Role and Value of Content Marketing</h2><p>March 30, 2016</p></article>]]></description>
+            <link>https://thegrid.ai/worldofwater/getting-c-level-buy-in-for-your-content-marketing-strategy/index.html</link>
+            <guid isPermaLink="false">01dc14f0-1c35-478a-bfec-a847088cbc40</guid>
+            <pubDate>Wed, 30 Mar 2016 19:36:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GOOGLE ADWORDS AND HUBSPOT INTEGRATION NOW LIVE!]]></title>
             <description><![CDATA[<article><h1>GOOGLE ADWORDS AND HUBSPOT INTEGRATION NOW LIVE!</h1><p>This took us by surprise. We weren’t exactly sure if inbound marketing and advertising even needed one another. We still don’t think that inbound marketers have to use ads, but we are now convinced that ads can amplify the effectiveness of inbound when used right. For example, the inbound marketing team at EHS Insight, a Houston based software company.</p></article>]]></description>
-            <link>undefinedgoogle-adwords-and-hubspot-integration-now-live/index.html</link>
+            <link>https://thegrid.ai/worldofwater/google-adwords-and-hubspot-integration-now-live/index.html</link>
             <guid isPermaLink="false">9f4470a3-59f1-4618-9d02-3e283e059832</guid>
             <pubDate>Wed, 30 Mar 2016 19:24:29 GMT</pubDate>
         </item>
